@@ -639,3 +639,22 @@
     }
   ]
 }
+, 
+
+{ "name": "Diana Maria",  
+
+  "lastName": "Casasola Elvir", 
+
+"gravatarEmail": "diana.casasola@acklenavenue.com",  
+
+"position": "Quality Assurance", 
+
+"location": "Tegucigalpa, Honduras>", 
+
+"department": ["All Ackleners", "Quality Assurances"], 
+
+  "github": "https://github.com/dcasasola", 
+
+"linkedin": "https://www.linkedin.com/in/diana-casasola-10887014a/", 
+
+"quote": "Happy mind, Happy life!" } 
